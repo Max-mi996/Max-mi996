@@ -1,16 +1,20 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**Max-mi996/Max-mi996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Micaella Maximiano
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem HTML/CSS/JavaScript ...
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📧
+
+maximiabomicaella@gmail.com
+
+@micaellamaximiano
+
+![](https://tenor.com/pt-BR/view/alexis-rose-schitts-creek-good-luck-fingers-crossed-cross-finger-gif-11400378180637421768) 
+
+
+
